@@ -8,7 +8,6 @@ I am a Full-stack  Web Developer and Electronic Engineering student, React enthu
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" />
 
 🌱 I’m currently learning <img src="https://github.com/FranciscoSanvicente/FranciscoSanvicente/blob/main/descargar%20(6).png" width="4%" title="Intro Card2" alt="Intro Card2  ">
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development 
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
