@@ -5,11 +5,10 @@ Soy un desarrollador web Full Stack y estudiante de ingeniería electrónica, en
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" />
 
-🌱 Actualmente estoy aprendiendo <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU5pZ-dS7Kooc8QK9eAhzqKAzHwy2GlpDpA&usqp=CAU" width="4%" title="Intro Card2" alt="Intro Card2  ">
-- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development 
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always time. You just have to find it.
+- 🌱 Actualmente estoy aprendiendo ciencia de datos | Desarrollo web Full Stack | Desarrollo de aplicaciones
+- 👯 Busco colaborar en proyectos de desarrollo web y aprendizaje automático <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Pregúntame sobre cualquier cosa. Intentaré ayudarte tanto como pueda.
+- ⚡ Cita: Siempre hay tiempo. Sólo tienes que encontrarlo.
  
 ### Tech & Tools Preference
 
@@ -35,7 +34,7 @@ Soy un desarrollador web Full Stack y estudiante de ingeniería electrónica, en
 <img src="https://img.shields.io/badge/-Gatsby%20-purple?style=flat&logo=Gatsby&logoColor=white">
 
 
-### Other Languages I know
+### Otros Leguajes que conozco
  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
  
  ### Mi Portafolio de trabajo(https://portafolio-francisco-sanvicente.netlify.app/) 
