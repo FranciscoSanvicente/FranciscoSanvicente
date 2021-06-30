@@ -6,7 +6,7 @@ Soy un desarrollador web Full Stack y estudiante de ingeniería electrónica, en
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" />
 
 - 🌱 Actualmente estoy aprendiendo ciencia de datos | Desarrollo web Full Stack | Desarrollo de aplicaciones
-- 👯 Busco colaborar en proyectos de desarrollo web y aprendizaje automático <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Busco colaborar en proyectos de desarrollo web y aprendizaje automático <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Pregúntame sobre cualquier cosa. Intentaré ayudarte tanto como pueda.
 - ⚡ Cita: Siempre hay tiempo. Sólo tienes que encontrarlo.
  
