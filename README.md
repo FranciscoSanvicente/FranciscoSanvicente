@@ -1,11 +1,11 @@
 ### HI! I am Francisco👋
 
 
-I am a Full-stack  Web Developer and Electronic Engineering student, React enthusiast and eager to grow professionally
+Soy un desarrollador web Full Stack y estudiante de ingeniería electrónica, entusiasta de React y con muchas ganas de crecer profesionalmente.
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" />
 
-🌱 I’m currently learning <img src="https://github.com/FranciscoSanvicente/FranciscoSanvicente/blob/main/descargar%20(6).png" width="4%" title="Intro Card2" alt="Intro Card2  ">
+🌱 Actualmente estoy aprendiendo <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU5pZ-dS7Kooc8QK9eAhzqKAzHwy2GlpDpA&usqp=CAU" width="4%" title="Intro Card2" alt="Intro Card2  ">
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development 
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
