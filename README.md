@@ -1,8 +1,6 @@
 ### HI! I am Francisco👋
 
-<p align="center">
-  <img src="https://github.com/FranciscoSanvicente/FranciscoSanvicente/blob/main/Full%20Stack%20Web%20Developer%20(1).png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+
 I am a Full-stack  Web Developer and Electronic Engineering student, React enthusiast and eager to grow professionally
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="40%" />
