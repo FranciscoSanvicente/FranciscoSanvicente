@@ -1,6 +1,6 @@
 ## Francisco Sanvicente
 
-Ingeniero de software en Puerto Ordaz, Venezuela. Construyo apps móviles, web y el backend que las sostiene.
+Desarrollador de software en Puerto Ordaz, Venezuela. Construyo apps móviles, web y el backend que las sostiene.
 
 Creador de **[Sumari](https://sumariapp.com)**, una app de finanzas personales que reúne bolívares, dólares, USDT y euros en un solo total a la tasa del día. Ya está en [Google Play](https://play.google.com/store/apps/details?id=com.sumari.app).
 
